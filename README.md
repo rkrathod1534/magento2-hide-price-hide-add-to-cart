@@ -1,0 +1,1 @@
+# magento2-hide-price-hide-add-to-cart
