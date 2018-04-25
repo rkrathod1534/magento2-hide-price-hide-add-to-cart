@@ -1,5 +1,5 @@
 # Hide Price - Hide Add to Cart extension for Magento 2 by MageArray #
-You can get this extension from [Here](https://www.magearray.com/hide-price-hide-add-to-cart-extension-for-magento-2.html).
+You can get this extension from Here.
 ## Technical Details ##
 * Name: Hide Price - Hide Price - Hide Add to Cart
 * Compatible With: <br />
@@ -21,7 +21,7 @@ Hide product price and Add to cart button from guests or certain customer groups
 * Hide price of particular products
 * Show prices to particular customer groups
 
-[Read all Features](https://www.magearray.com/hide-price-hide-add-to-cart-extension-for-magento-2.html) 
+ 
 
 ## SUPPORT
-We support all our customers through our website. If you have any questions on Extension or need support with its use please [contact us here](https://www.magearray.com/contact/) – we're happy to help you.
+We support all our customers through our website. If you have any questions on Extension or need support with its use please contact us here – we're happy to help you.
